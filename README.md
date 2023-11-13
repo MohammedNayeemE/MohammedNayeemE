@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Nayeem</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **NEXTJS , Backend Frameworks**
+- 🌱 I’m currently learning **NETWORKING AND Backend Frameworks**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
