@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohammed Nayeem</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **NETWORKING , Backend Frameworks**
+- 🌱 I’m currently learning **Game Developement 👾**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **nayeemmohammed467@gmail.com**
 
-- ⚡ Fun fact **I like coffee**
+- ⚡ Fun fact **I like coffee **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
