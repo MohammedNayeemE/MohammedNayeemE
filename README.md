@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **nayeemmohammed467@gmail.com**
 
-- ⚡ Fun fact **Visca Barca !**
+- ⚡ Fun fact **IYKYK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
